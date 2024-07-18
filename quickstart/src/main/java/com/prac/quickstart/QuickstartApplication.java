@@ -2,7 +2,7 @@ package com.prac.quickstart;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-
+//test comment
 @SpringBootApplication
 public class QuickstartApplication {
 
